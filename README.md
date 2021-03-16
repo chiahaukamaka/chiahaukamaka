@@ -1,5 +1,5 @@
 ### Hi there 👋 i,m Chiaha Uka
-Here are some ideas to get you started:
+![Desert](https://user-images.githubusercontent.com/79012413/111318276-2ecdf300-8665-11eb-9ad1-42d1732123b1.jpg)
 
 - 🔭 I’m currently working at PMT as a junior developer
 - 🌱 I’m currently learning javascript
